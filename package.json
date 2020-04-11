@@ -1,0 +1,26 @@
+{
+  "name": "p10-t2-lexer-generator-action-alu0100896565",
+  "version": "0.1.0",
+  "description": "Reto practica 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100896565/p10-t2-lexer-generator-action-alu0100896565.git"
+  },
+  "keywords": [
+    "actions"
+  ],
+  "author": "Eduardo Suarez Ojeda <alu0100896565@ull.edu.es> (https://github.com/alu0100896565)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100896565/p10-t2-lexer-generator-action-alu0100896565/issues"
+  },
+  "homepage": "https://github.com/alu0100896565/p10-t2-lexer-generator-action-alu0100896565#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
