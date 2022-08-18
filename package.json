@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/alu0100896565/p10-t2-lexer-generator-action-alu0100896565#readme",
   "dependencies": {
-    "@actions/core": "^1.2.3",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^2.1.1"
   }
 }
